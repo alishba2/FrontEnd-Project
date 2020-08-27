@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav-dec {
+    background-color: black;
+    color: white;
+}
+
+.add-container {
+    height: 290px;
+    width: 100%;
+    background-color: white;
+}
+
+.blog-txt {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 1em;
+}
+
+.blog-p {
+    margin-top: 2em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.blog-img {
+    margin-top: 2em;
+}
