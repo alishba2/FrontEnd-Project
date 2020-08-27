@@ -1,0 +1,23 @@
+/* .grid-container {
+    background-color: lightcyan;
+    margin: 10px;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 2;
+    /* grid-column-gap: -150px;
+    grid-row-gap: 150px; */
+    /* grid-gap: 2px, 200px; */
+    /* justify-content: space-around;
+    align-content: ; */
+}
+
+/* .grid-item {
+    color: whitesmoke;
+    line-height: 50px;
+    width: 50px;
+    margin: 10px;
+    font-size: 15px;
+    text-align: center;
+} */ */
